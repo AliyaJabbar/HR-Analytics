@@ -17,7 +17,7 @@ This project analyzes HR data to identify patterns behind employee attrition and
 
 ## 📊 Final Dashboard
 
-![Dashboard Screenshot](Screenshots/dashboard1.png)
+https://github.com/AliyaJabbar/HR-Analytics/blob/main/HR_analytics.pbix
 
 ## 🔁 Data Cleaning & Transformation
 
@@ -27,14 +27,13 @@ Power Query was used to:
 - Rename columns for readability
 - Create custom columns for grouping
 
-![Power Query](Screenshots/powerquery.png)
 
 > Detailed steps available in `PowerQuerySteps.txt`
 
 ## 🔗 Data Source
 
 HR Analytics dataset: https://github.com/AliyaJabbar/HR-Analytics/blob/main/HR_Analytics.csv
-*(Note: Dataset not included here due to size/privacy. Add manually if needed.)*
+
 
 ## 📁 File Structure
 - `HR_Analytics.pbix` – Power BI project file
