@@ -33,7 +33,7 @@ Power Query was used to:
 
 ## 🔗 Data Source
 
-HR Analytics dataset: [Kaggle or your source]  
+HR Analytics dataset: https://github.com/AliyaJabbar/HR-Analytics/blob/main/HR_Analytics.csv
 *(Note: Dataset not included here due to size/privacy. Add manually if needed.)*
 
 ## 📁 File Structure
