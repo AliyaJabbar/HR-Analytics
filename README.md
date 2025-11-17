@@ -18,7 +18,7 @@ This project analyzes HR data to identify patterns behind employee attrition and
 ## 📊 Final Dashboard
 
 https://github.com/AliyaJabbar/HR-Analytics/blob/main/HR_analytics.pbix
-screenshot:https://github.com/AliyaJabbar/HR-Analytics/blob/main/hranalyticsdashboard.PNG
+![screenshot](https://github.com/AliyaJabbar/HR-Analytics/blob/main/hranalyticsdashboard.PNG)
 
 ## 🔁 Data Cleaning & Transformation
 
